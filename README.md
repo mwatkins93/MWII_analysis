@@ -1,1 +1,3 @@
-# vsc_python_test
+## Modern Warfare II Throwing knife analysis
+
+### 1. Context
