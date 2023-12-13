@@ -1,87 +1,87 @@
-map,date,side,player
-hydroelectric,2022-11-03,defense,Denial
-farm,2022-11-04,offense,Probably High
-hydroelectric,2022-11-04,defense,FreeMargiela
-hydroelectric,2022-11-05,offense,Estabone
-hydroelectric,2022-11-05,defense,LUKEYCHARMZ
-farm ,2022-11-05,offense,LiL ChickenTender
-raceway,2022-11-06,offense,eatmypoop
-hydroelectric,2022-11-13,defense,SympathyFTDevils
-hydroelectric,2022-11-13,defense,xx
-taraq,2022-11-14,defense,Crazy Mage
-farm,2022-11-14,offense,Novan
-taraq,2023-03-11,defense,Ba115uk3r
-mercado,2023-03-13,offense,V3N0M
-taraq,2023-03-13,defense,JonnyDoucher_94_
-taraq,2023-03-13,defense,JonnyDoucher_94_
-raceway,2023-03-14,defense,LUXXED
-mercado,2023-03-14,defense,Devils_reject07
-shoothouse,2023-03-14,defense,Titustheg985
-dome,2023-03-14,offense,Dr1nkM1lk
-dome,2023-03-14,defense,im azq
-dome,2023-03-14,offense,Mr WalkDown
-fortress,2023-03-15,offense,LilHTownPun
-border crossing,2023-03-16,defense,XoticSnipezX
-taraq,2023-03-16,offense,Mjballa06
-taraq,2023-03-16,defense,SpicyNut
-taraq,2023-03-17,defense,Big_Sig_Sauer226
-farm,2023-03-20,offense,Easy_E__GFG
-mercado,2023-03-20,offense,Leon Kennedy -_-
-mercado,2023-03-20,offense,Michelob Ultra
-hydroelectric,2023-03-21,defense,PapaPerc420
-farm,2023-03-21,defense,Love4donaldtrump
-museum,2023-03-21,defense,D Fitzpatrick
-farm,2023-03-21,defense,ACED
-hotel,2023-03-22,defense,BigWizard007
-border crossing,2023-03-22,defense,Seji
-taraq,2023-03-23,offense,ExtraChromosome
-farm,2023-03-29,defense,Vivid
-fortress,2023-03-31,defense,4GsInTheWood
-border crossing,2023-03-31,offense,RiceCakes069
-farm,2023-04-01,offense,Here2getbannedXD
-farm,2023-04-01,defense,Carl Wheezer
-raceway,2023-04-02,offense,ToXiC_Lucifer
-raceway,2023-04-02,offense,ToXiC_Lucifer
-raceway,2023-04-02,offense,ToXiC_Lucifer
-dome,2023-04-02,defense,SunkGlobe
-dome,2023-04-02,offense,blackairforce1s
-farm,2023-04-04,offense,Squints
-dome,2023-04-05,offense,HiDenfromBIDEN
-museum,2023-04-09,defense,Wolf_fer11
-hydroelectric,2023-04-09,defense,1kCloudy
-mercado,2023-04-09,defense,Jeffy
-hydroelectric,2023-04-09,defense,Smittyy52
-taraq,2023-04-09,offense,TasteTheRambo73
-border crossing,2023-04-10,defense,Swilllyy
-hydroelectric,2023-04-10,defense,Zejuden
-farm,2023-04-10,offense,Yoda
-hotel,2023-04-10,offense,AZN
-hotel,2023-04-10,defense,AZN
-raceway,2023-04-10,offense,bevyq
-raceway,2023-04-10,offense,bevyq
-el asilo,2023-04-10,defense,Krash
-el asilo,2023-04-10,offense,leahisLEGIT
-el asilo,2023-04-10,defense,FireHead23
-kunstenarr district,2023-10-31,offense,Sigma Khan
-hydroelectric,2023-11-01,defense,Asianman
-hatchery,2023-11-01,offense,HaleOlaBoii
-lighthouse,2023-11-02,offense,Sir$usted Z;)
-strike,2023-11-02,defense,KVNGSWAV3Y
-koro village,2023-11-02,offense,TurnMeUpJosh300
-drc,2023-11-03,offense,RIVAL-WIse
-showdown,2023-11-03,offense,AngelMeza
-hydroelectric,2023-11-03,offense,Infinity_
-drc,2023-11-04,defense,Nastybaby90
-hydroelectric ,2023-11-04,offense,Spitfire
-hydroelectric ,2023-11-04,defense,Not recorded
-koro village,2023-11-04,offense,Po2
-hatchery,2023-11-05,offense,kahukuboi713
-shoothouse,2023-11-05,defense,Swavvy_Javi
-la casa,2023-11-05,defense,murit143
-hatchery,2023-11-06,defense,Meth
-vondel,2023-11-06,defense,Grim_reaper69
-koro village,2023-11-06,offense,ThewhiteDredd
-farm,2023-11-07,offense,Neo
-hydroelectric ,2023-11-07,offense,Dy_Smiling
-koro,2023-11-07,defense,shypie
-koro,2023-11-07,offense,BigTedThe3rd-milk
+map,date,side,player,,map list,offense,defense,spots documented
+hydroelectric,2022-11-03,defense,Denial,,fortress,/,/,
+farm,2022-11-04,offense,Probably High,,hotel,/,/,
+hydroelectric,2022-11-04,defense,FreeMargiela,,raceway,strong arm,/,
+hydroelectric,2022-11-05,offense,Estabone,,el asilo,/,strong arm,
+hydroelectric,2022-11-05,defense,LUKEYCHARMZ,,embassy,/,/,
+farm,2022-11-05,offense,LiL ChickenTender,,farm,/,/,
+raceway,2022-11-06,offense,eatmypoop,,mercado,/,/,
+hydroelectric,2022-11-13,defense,SympathyFTDevils,,border crossing,strong arm,strong arm,
+hydroelectric,2022-11-13,defense,xx,,taraq,/,strong arm,
+taraq,2022-11-14,defense,Crazy Mage,,hydroelectric,strong arm,strong arm,
+farm,2022-11-14,offense,Novan,,dome,/,/,
+taraq,2023-03-11,defense,Ba115uk3r,,museum,strong arm,/,
+mercado,2023-03-13,offense,V3N0M,,shoothouse,/,/,
+taraq,2023-03-13,defense,JonnyDoucher_94_,,himmelmatt,/,strong arm,
+taraq,2023-03-13,defense,JonnyDoucher_94_,,showdown,/,/,
+raceway,2023-03-14,defense,LUXXED,,punta mar,strong arm,strong arm,
+mercado,2023-03-14,defense,Devils_reject07,,la casa,/,/,
+shoothouse,2023-03-14,defense,Titustheg985,,strike,strong arm,strong arm,
+dome,2023-03-14,offense,Dr1nkM1lk,,koro village,/,/,
+dome,2023-03-14,defense,im azq,,drc - zone 1,/,/,Yes
+dome,2023-03-14,offense,Mr WalkDown,,vondel waterfront,/,strong arm,
+fortress,2023-03-15,offense,LilHTownPun,,kunstenarr district,/,/,
+border crossing,2023-03-16,defense,XoticSnipezX,,pelayo's lighthouse,strong arm,strong arm,
+taraq,2023-03-16,offense,Mjballa06,,black gold,strong arm,strong arm,
+taraq,2023-03-16,defense,SpicyNut,,alboran hatchery,/,/,
+taraq,2023-03-17,defense,Big_Sig_Sauer226,,,,,
+farm,2023-03-20,offense,Easy_E__GFG,,,,,
+mercado,2023-03-20,offense,Leon Kennedy -_-,,,,,
+mercado,2023-03-20,offense,Michelob Ultra,,,,,
+hydroelectric,2023-03-21,defense,PapaPerc420,,,,,
+farm,2023-03-21,defense,Love4donaldtrump,,,,,
+museum,2023-03-21,defense,D Fitzpatrick,,,,,
+farm,2023-03-21,defense,ACED,,,,,
+hotel,2023-03-22,defense,BigWizard007,,,,,
+border crossing,2023-03-22,defense,Seji,,,,,
+taraq,2023-03-23,offense,ExtraChromosome,,,,,
+farm,2023-03-29,defense,Vivid,,,,,
+fortress,2023-03-31,defense,4GsInTheWood,,,,,
+border crossing,2023-03-31,offense,RiceCakes069,,,,,
+farm,2023-04-01,offense,Here2getbannedXD,,,,,
+farm,2023-04-01,defense,Carl Wheezer,,,,,
+raceway,2023-04-02,offense,ToXiC_Lucifer,,,,,
+raceway,2023-04-02,offense,ToXiC_Lucifer,,,,,
+raceway,2023-04-02,offense,ToXiC_Lucifer,,,,,
+dome,2023-04-02,defense,SunkGlobe,,,,,
+dome,2023-04-02,offense,blackairforce1s,,,,,
+farm,2023-04-04,offense,Squints,,,,,
+dome,2023-04-05,offense,HiDenfromBIDEN,,,,,
+museum,2023-04-09,defense,Wolf_fer11,,,,,
+hydroelectric,2023-04-09,defense,1kCloudy,,,,,
+mercado,2023-04-09,defense,Jeffy,,,,,
+hydroelectric,2023-04-09,defense,Smittyy52,,,,,
+taraq,2023-04-09,offense,TasteTheRambo73,,,,,
+border crossing,2023-04-10,defense,Swilllyy,,,,,
+hydroelectric,2023-04-10,defense,Zejuden,,,,,
+farm,2023-04-10,offense,Yoda,,,,,
+hotel,2023-04-10,offense,AZN,,,,,
+hotel,2023-04-10,defense,AZN,,,,,
+raceway,2023-04-10,offense,bevyq,,,,,
+raceway,2023-04-10,offense,bevyq,,,,,
+el asilo,2023-04-10,defense,Krash,,,,,
+el asilo,2023-04-10,offense,leahisLEGIT,,,,,
+el asilo,2023-04-10,defense,FireHead23,,,,,
+kunstenarr district,2023-10-31,offense,Sigma Khan,,,,,
+hydroelectric,2023-11-01,defense,Asianman,,,,,
+hatchery,2023-11-01,offense,HaleOlaBoii,,,,,
+lighthouse,2023-11-02,offense,Sir$usted Z;),,,,,
+strike,2023-11-02,defense,KVNGSWAV3Y,,,,,
+koro village,2023-11-02,offense,TurnMeUpJosh300,,,,,
+drc,2023-11-03,offense,RIVAL-WIse,,,,,
+showdown,2023-11-03,offense,AngelMeza,,,,,
+hydroelectric,2023-11-03,offense,Infinity_,,,,,
+drc,2023-11-04,defense,Nastybaby90,,,,,
+hydroelectric ,2023-11-04,offense,Spitfire,,,,,
+hydroelectric ,2023-11-04,defense,Not recorded,,,,,
+koro village,2023-11-04,offense,Po2,,,,,
+hatchery,2023-11-05,offense,kahukuboi713,,,,,
+shoothouse,2023-11-05,defense,Swavvy_Javi,,,,,
+la casa,2023-11-05,defense,murit143,,,,,
+hatchery,2023-11-06,defense,Meth,,,,,
+vondel,2023-11-06,defense,Grim_reaper69,,,,,
+koro village,2023-11-06,offense,ThewhiteDredd,,,,,
+farm,2023-11-07,offense,Neo,,,,,
+hydroelectric ,2023-11-07,offense,Dy_Smiling,,,,,
+koro,2023-11-07,defense,shypie,,,,,
+koro,2023-11-07,offense,BigTedThe3rd-milk,,,,,
