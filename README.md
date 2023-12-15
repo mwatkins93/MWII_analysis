@@ -14,7 +14,8 @@ The data is in the 'tidy' format (refer to https://vita.had.co.nz/papers/tidy-da
 - name
 
 ### 2. Analysis
-I wanted to do a basic exploraty analysis on the dataset and create various histograms to answer (and further discuss) the following questions:
-1. Which month of the year did the most hits occur and was this a function of playtime?
+I wanted to do a basic exploratory analysis on the dataset and create various plots to answer (and further discuss) the following questions:
+1. Assess the annual timeframe of the data, are there any patterns or explanations for the hits?
 2. Which map and side had the most hits? With fairly good map knowledge, speculate on why this might have this occurred?
-3. Reserved for further questions as analysis develops
+3. Check out the counts of players who were hit
+5. Discussion
