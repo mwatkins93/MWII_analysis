@@ -1,0 +1,80 @@
+---
+title: "MWII throwing knife analysis"
+author: "MGW"
+format: html
+editor: visual
+---
+
+## Background
+
+During Modern Warfare II (MWII), I spent the majority of my time in Search and Destroy throwing cross-map throwing knives. After I hit Embassy, the last 6v6 map I needed, I moved to Modern Warfare III (MWIII) and finished with a total of 91 cross-maps after omitting Shipment. Here is the data and some intriguing analysis for those of you who are interested. I've also made a public github repository for this dataset if anyone wants to use it...
+
+## Analysis
+
+I had a general sense of which maps I hit the most and which ones proved difficult as I progressed, but getting a bird's eye view of the data illuminates many interesting details (Figure 1). For instance, Figure 1 illustrates that over half the maps (n = 14) were only hit once or twice. I've attributed several factors for this:
+
+1.  map difficulty - both spawns on several maps (e.g., Strike and Museum) are incredibly challenging and require lots of creativity and luck.
+
+2.  completionist - after going dry for many months on some of these maps, I just took a single kill and moved on.
+
+3.  cycle release - some maps (e.g., La Casa) are released much later, therefore these get less reps than the base maps. This can also be combined with reason #1 or #2, or in some cases both (e.g., Himmelmatt).
+
+```{r}
+#| echo: false
+#| warning: false
+#| fig-align: center
+
+## 2. Prepare ----
+
+options(stringsASfactors = FALSE, scipen = 999, encoding = "UTF-8")
+
+library(tidyverse)
+library(readxl)
+library(RColorBrewer)
+
+## 3. IMPORT ----
+
+### 3.01 Read in MW 2022 data ----
+tk_data <- read_xlsx(path = "/Users/MW/Desktop/Programming/R/Projects/2024-01_MWII_analysis/data/mw2022_tks.xlsx")
+
+## 4. TIDY // PROCESS ----
+
+tk_data$date <- as.Date(tk_data$date)
+
+### 4.01 Make df for specific dates on annual count plot ----
+
+vect1 <- c("2022-11-01", "2023-01-01")
+
+dates <- data.frame(date = vect1)
+
+dates$date <- as.Date(dates$date)
+
+```
+
+```{r}
+#| echo: false
+#| fig-align: center
+#| fig-cap-location: bottom
+#| fig-cap: Figure 1. Cross-map throwing knife kills in MWII Search and Destroy from Nov. 2022 to Nov. 2023.
+tk_data %>% 
+  ggplot(aes(x = fct_rev(fct_infreq(map)), fill = side)) +
+  
+  # Bar plot
+  geom_bar() +
+  
+  # Axes
+  labs(x = "Map", y = "Kills", fill = "Spawn") +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.1)), breaks = c(0, 2, 4, 6, 8, 10, 12, 14, 16), limits = c(0, 16)) +
+  coord_flip(expand = FALSE) +
+  
+  # Theme
+  theme_light() +
+  theme(text=element_text(size = 16)) +
+  scale_fill_manual(values = c("#377eb8", "#4DAF4A"))
+```
+
+Another interesting observation was that 54% of the kills (i.e., 49/91) came from the top five maps - Hydroelectric, Farm, Taraq, Raceway, and Dome. Thinking back to the aforementioned factors, it is clear that Farm and Dome are relatively low difficulty maps, since throwing knives are viable on both spawns, distances are small, and strong arm can be used to shoot gaps at low angles giving enemies less time to react. The other three maps are more intriguing, largely because there may be a tendency to favour one spawn over the other (Figure 1). Let's begin examining why it might be easier to hit cross-maps from the defensive side of Taraq and Hydroelectric, and the offensive side of Raceway.
+
+## Case study
+
+First we'll look at the easiest, most obvious example - Raceway.

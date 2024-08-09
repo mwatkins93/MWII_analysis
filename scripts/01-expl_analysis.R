@@ -24,8 +24,6 @@ library(tidyverse)
 library(readxl)
 library(RColorBrewer)
 
-brewer.pal(n = 3, name = "Set1")
-
 ## 3. IMPORT ----
 
 ### 3.01 Read in MW 2022 data ----
@@ -54,14 +52,15 @@ tk_data %>%
   geom_bar() +
   
   # Axes
-  labs(x = "", y = "Kills", fill = "Spawn") +
+  labs(x = "Map", y = "Kills", fill = "Spawn") +
   scale_y_continuous(expand = expansion(mult = c(0, 0.1)), breaks = c(0, 2, 4, 6, 8, 10, 12, 14, 16), limits = c(0, 16)) +
   coord_flip(expand = FALSE) +
   
   # Theme
-  # Theme
   theme_light() +
-  scale_fill_manual(values = c("#377eb8", "#4DAF4A"))
+  theme(plot.title = element_text(hjust = 0.5)) +
+  scale_fill_manual(values = c("#377eb8", "#4DAF4A")) +
+  ggtitle("MWII throwing knives")
 
 ### 5.02 Display a date histogram (view frequency over the year) ----
 tk_data %>% 
@@ -85,14 +84,6 @@ tk_data %>%
             size = 4,
             hjust = 1,
             angle = 90)
-  
-
-
-
-
-  
-  
-  
   
 ## 6. SAVING // EXPORTING ----
 
