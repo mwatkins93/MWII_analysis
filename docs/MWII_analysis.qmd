@@ -6,13 +6,13 @@ editor: visual
 
 ## Background
 
-During Modern Warfare II, I spent the majority of my time in Search and Destroy attempting to hit cross-map throwing knives. After I hit Embassy, the last 6v6 map I needed, I had amassed 91 cross-maps in total. After omitting Shipment, I tried to pull out a few interesting details to share with the community. This dataset will also be available on GitHub if anyone wants to use it in the future.
+During Modern Warfare II (MWII), I spent the majority of my time in Search and Destroy attempting to hit cross-map throwing knives. After I hit Embassy, the last 6v6 map I needed, I had amassed 91 cross-maps in total. After omitting Shipment, I tried to pull out a few interesting details to share with the community. This dataset will also be available on [GitHub](https://github.com/mwatkins93/MWII_analysis) if anyone wants to use it in the future.
 
 ## Analysis
 
 I had a general sense of which maps I hit the most and which ones proved difficult as I progressed, but getting a bird's eye view of the data illuminates several interesting details (Figure 1). For instance, more than half the maps (n = 14) were only hit once or twice. I've attributed this to several factors:
 
-1.  Map difficulty --- both spawns on several maps (e.g., Strike, Museum) are incredibly challenging and require creativity and lots of luck.
+1.  Map difficulty --- both spawns on several maps (e.g., Strike, Museum) are incredibly challenging and require some creativity and lots of luck.
 
 2.  Completionist --- after going dry for many months on some of these maps, I just took a single kill and moved on.
 
@@ -80,7 +80,7 @@ Another interesting observation was that five maps --- Hydroelectric, Farm, Tara
 
 ##### 1. Crown Raceway --- the most obvious example
 
-Crown Raceway has a relatively large discrepancy in spawn safety, with defense holding the distinct advantage. The left side of the tall, central building naturally protects players until they want to run up the stairs to mid-street --- the most logical area for hitting cross-maps from offense (Figure 2). I hit several here which I'd consider fairly lucky. It is a relatively high traffic area; however, the variability in the throw combined with having to clear the concrete barrier, hitting a narrow kill zone, and underutilisation of the upper platform (which knives tend to bounce up on) make this more challenging than it looks. Note that hitting AFK players directly at spawn is also possible, but I'd argue it requires more luck.
+Crown Raceway has a relatively large discrepancy in spawn safety, with defense holding the distinct advantage. The left side of the tall, central building naturally protects players until they want to run up the stairs to mid-street --- the most logical area for hitting cross-maps from offense (Figure 2). I hit several here which I'd consider fairly lucky. It is a relatively high traffic area; however, the variability in the throw combined with a) having to clear the concrete barrier; b) hitting a narrow kill zone; and c) underutilisation of the upper platform, which knives tend to bounce up on, make this more challenging than it looks. Note that hitting AFK players directly at spawn is also possible, but I'd argue it requires more luck.
 
 ![Figure 2. An overview of the defense spawn and the route players must take to be vulnerable to this particular cross-map.](images/raceway1-01.png){fig-align="center"}
 
@@ -94,13 +94,13 @@ Let's take a look at the other side. At first glance, the offense spawn looks qu
 
 ##### 2. Taraq --- an interesting case of design
 
-Taraq being in my top five maps was somewhat surprising given its large size and asymmetric layout. Let's start with the throws from offense because Infinity Ward did not give us any favours here. The large blue building in front of the defensive spawn forces players left towards B, which is more open, or right through a small corridor towards A. Unfortunately, the strategic position of the large central tower makes hitting the B route a near-impossible task (one I never attempted). That leaves trying to perfect the A throw --- a sprint-jump toss into a vague grey sky that has to a) get over the balcony; or b) be left of the balcony and miss the pillar, which makes the aim and timing absolutely crucial (Figure 6). Given these factors, I'd chalk the three I hit from this spawn mostly up to luck. They are easily some of my favourite kills since so much has to go right (where is theatre mode when you need it).
+Taraq being in my top five maps was somewhat surprising given its large size and asymmetric layout. Let's start with the throws from offense because Infinity Ward did not give us any favours here. The large blue building in front of the defensive spawn forces players left towards B, which is more open, or right through a small corridor towards A. Unfortunately, the strategic position of the large central tower makes hitting the B route a near-impossible task (one I never attempted). That leaves trying to perfect the A throw --- a sprint-jump toss into a vague grey sky that has to a) get over the balcony; or b) be left of the balcony and miss the pillar, which makes aim and timing absolutely crucial (Figure 6). Given these factors, I'd chalk the three I hit from this spawn up to luck, mostly. They are easily some of my favourite kills since so much has to go right (where is theatre mode when you need it).
 
 ![Figure 5. The central tower and blue platform and adjoined retaining wall protect players exiting spawn towards B.](images/taraq1.png){fig-align="center"}
 
-![Figure 6. The A corridor and the window a throwing knife needs to go through to be successful. Note that aiming towards the exit (i.e., further left) is also viable.](images/taraq2-01.png){fig-align="center"}
+![Figure 6. The A corridor and the window a throwing knife needs to go through to be successful. Note that aiming towards the exit (i.e., further left from the throwing perspective) is also viable.](images/taraq2-01.png){fig-align="center"}
 
-Although the defensive throw is pretty blind (due to blue), the offense spawn is more forgiving and does us a subtle, but key favour. The characters tend to spawn in looking more left (towards A), which perhaps leads to more A rushes; it may also have no effect on player decision-making (Figure 7). Regardless, the offense path to A is really the only viable cross-map option (as the B rush is well guarded) --- lucky us. Left of spawn is pretty open and the perpendicular runway offers lots of lead time if you can avoid the retaining wall and the corner building on the right (Figure 8). AFK players are also in play and a consistent point and release throw with strong arm makes this easier than expected.
+Although the defensive throw is pretty blind (due to blue), the offense spawn is more forgiving and does us a subtle, but key favour. The characters tend to spawn in looking more left (towards A), which perhaps leads to more A rushes; it may also have no effect on player decision-making (Figure 7). Regardless, the path to A is really the only viable cross-map option (as the B rush is well guarded) --- lucky us. The area in front of spawn is quite open and the perpendicular runway offers lots of lead time if you can fly the retaining wall and avoid the corner building on the right (Figure 8). AFK players are also in play and a consistent point and release throw with strong arm makes this easier than expected.
 
 **Conclusion:** I'll take my chances with the defensive throw over a rare --- albeit sublime --- offense kill everytime.
 
@@ -110,23 +110,23 @@ Although the defensive throw is pretty blind (due to blue), the offense spawn is
 
 ##### 3. Zarqwa Hydroelectric --- the most dangerous spawn in the game?
 
-Zarqwa Hydroelectric is simply a cross-mapping paradise; however, there are some key factors as to why kills on offense seem to be harder to come by than its counterpart. Looking at the offense knife kill zone, the long runway to mid is relatively good from a cross-map perspective, but the players are protected by the generator building and its electric towers and are actually at a slightly lower elevation due to the carved out path on the right. Moreover, situated right in front of this path are various liquid containers and a power pole, which may play a sneaky role in reducing success rate. I figure a few lives were saved due to their presence (i.e., deflections). Ultimately, knives have to cross the map, clear the building, and get down fast which allows many players to be safe by that time (if they tac-sprint at the start of the round).
+Zarqwa Hydroelectric is simply a cross-mapping paradise; however, there are some key factors as to why kills on offense seem to be harder to come by than its counterpart. Looking at the offense knife kill zone, the long runway to mid is relatively good from a cross-map perspective, but the players are protected by the generator building and its electric towers and are actually at a slightly lower elevation due to the carved out path on the right (Figure 9). Moreover, situated right in front of this path are various liquid containers and a power pole, which may play a sneaky role in reducing success. I figure a few lives were saved due to deflections/bounces off of these surfaces. Ultimately, knives have to cross the map, clear the building, and get down fast which allows many players to be safe by that time (if they're quick off the draw at round start).
 
-![Figure X. The area of interest for the cross-map thrown from offense.](images/hydroelectric2.png){fig-align="center"}
+![Figure 9. The area of interest for the cross-map thrown from offense.](images/hydroelectric2.png){fig-align="center"}
 
-Conversely, tossing knives from the defense spawn is a dream setup. Player spawns in the kill zone? Check. Point and release strong arm throw? Check. Long, straight runway with no barriers and bounce opportunities? Check. Perfect bomb placement that entices players to funnel down the middle lane? Check. Thus, I started expecting to hit one from this side every game as it is a textbook example of what to look for when cross-mapping. Although this is a small sample size, offense on Zarqwa Hydroelectric may very well be the most dangerous Search and Destroy spawn in the game.
+Conversely, tossing knives from defense is a dream setup. Player spawns in the kill zone? Check. Point and release strong arm throw? Check. Long, straight runway with no barriers and bounce opportunities? Check. Perfect bomb placement that entices players to funnel down the middle lane? Check. After a while, I expected to hit one from this side every game --- it is the textbook example of what to look for when cross-mapping. Although this is a small sample size, offense on Zarqwa Hydroelectric may very well be the most dangerous Search and Destroy spawn in the game.
 
 **Conclusion:** Defense everytime.
 
-![Figure X. The nightmare scenario for players spawning and subsequently running middle on offense.](images/hydroelectric1.png){fig-align="center"}
+![Figure 10. The nightmare scenario for players spawning and subsequently running middle on offense.](images/hydroelectric1.png){fig-align="center"}
 
-## Annual data
+## Annual patterns
 
-Lastly, I thought it was interesting to look at the temporal aspect of the data (i.e., when did these kills happen over the course of the year?). Looking at Figure 11, it's pretty evident that these occurred in three distinct time frames:
+Lastly, I thought it was interesting to look at the temporal aspect of the data --- when did these kills happen over the course of the year? Looking at Figure 11, it's pretty evident that my cross-maps occurred at three distinct times:
 
-1.  Release --- excited to play the new game and learn new maps, etc.
+1.  Release --- excited to play the game and find spots on new maps, etc.
 
-2.  March to April 2023 --- likely returned to check out the new season and was clearly consumed with knocking out cross-maps.
+2.  March to April 2023 --- likely returned to check out a new season and was clearly consumed with knocking out cross-maps.
 
 3.  Around the release of the next Call of Duty --- had to grind out the remaining maps before I moved on to the next game.
 
@@ -161,7 +161,7 @@ tk_data %>%
 
 ```
 
-Interestingly, my data follows the 'typical' Call of Duty player cycle pretty well, which makes me laugh --- I guess it is a thing after all.
+Interestingly, my data follows the 'typical' Call of Duty player cycle pretty well, which makes me laugh --- I guess it is a thing after all. I hope you enjoyed this and maybe even learned something new about the game.
 
 Until next time,
 
