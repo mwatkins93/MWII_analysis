@@ -4,6 +4,7 @@ format: html
 editor: visual
 ---
 
+
 ## Background
 
 During Modern Warfare II (MWII), I spent the majority of my time in Search and Destroy attempting to hit cross-map throwing knives. After I hit Embassy, the last 6v6 map I needed, I had amassed 91 cross-maps in total. After omitting Shipment, I tried to pull out a few interesting details to share with the community. This dataset will also be available on [GitHub](https://github.com/mwatkins93/MWII_analysis) if anyone wants to use it in the future.
@@ -17,6 +18,7 @@ I had a general sense of which maps I hit the most and which ones proved difficu
 2.  Completionist --- after going dry for many months on some of these maps, I just took a single kill and moved on.
 
 3.  Seasonal releases --- some maps (e.g., La Casa) are released much later and naturally get less reps than the base maps. This can also compound with #1, #2, or both (e.g., Himmelmatt).
+
 
 ```{r}
 #| echo: false
@@ -74,6 +76,7 @@ tk_data %>%
   scale_fill_manual(values = c("#4DAF4A", "#377eb8"))
 ```
 
+
 Another interesting observation was that five maps --- Hydroelectric, Farm, Taraq, Raceway, and Dome --- were responsible for 54% of my kills. Thinking back to the aforementioned factors, it is clear that Farm and Dome have relatively low degrees of difficulty as: 1) throwing knives are viable from both spawns; 2) distances are short; and 3) strong arm can be used to shoot gaps at low angles giving enemies less time to react. Conversely, the other three maps are more intriguing, largely because there may be a tendency to favour one spawn over the other (Figure 1). Let's begin examining why it might be easier to hit cross-maps from the offense side of Raceway, and the defensive side of Taraq and Hydroelectric.
 
 ## Case studies
@@ -130,6 +133,7 @@ Lastly, I thought it was interesting to look at the temporal aspect of the data 
 
 3.  Around the release of the next Call of Duty --- had to grind out the remaining maps before I moved on to the next game.
 
+
 ```{r}
 #| echo: false
 #| fig-align: center
@@ -161,8 +165,10 @@ tk_data %>%
 
 ```
 
+
 Interestingly, my data follows the 'typical' Call of Duty player cycle pretty well, which makes me laugh --- I guess it is a thing after all. I hope you enjoyed this and maybe even learned something new about the game.
 
 Until next time,
 
 MGW
+
