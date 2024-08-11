@@ -33,6 +33,8 @@ tk_data <- read_xlsx(path = "./data/mw2022_tks.xlsx")
 
 tk_data$date <- as.Date(tk_data$date)
 
+tk_data$side <- factor(tk_data$side, levels = c("offense", "defense"))
+
 ### 4.01 Make df for specific dates on annual count plot ----
 
 vect1 <- c("2022-11-01", "2023-01-01")
