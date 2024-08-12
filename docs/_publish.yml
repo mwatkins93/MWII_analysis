@@ -1,0 +1,4 @@
+- source: MWII_analysis.qmd
+  quarto-pub:
+    - id: 5509ef55-61ed-467a-a3e4-674f1bb5e80f
+      url: 'https://quartopub.com/sites/forevarising/mw2022-tk-analysis'

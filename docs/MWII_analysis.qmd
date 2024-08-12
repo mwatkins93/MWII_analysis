@@ -80,7 +80,7 @@ Another interesting observation was that five maps --- Hydroelectric, Farm, Tara
 
 ##### 1. Crown Raceway --- the most obvious example
 
-Crown Raceway has a relatively large discrepancy in spawn safety, with defense holding the distinct advantage. The left side of the tall, central building naturally protects players until they want to run up the stairs to mid-street --- the most logical area for hitting cross-maps from offense (Figure 2). I hit several here which I'd consider fairly lucky. It is a relatively high traffic area; however, the variability in the throw combined with a) having to clear the concrete barrier; b) hitting a narrow kill zone; and c) underutilisation of the upper platform, which knives tend to bounce up on, make this more challenging than it looks. Note that hitting AFK players directly at spawn is also possible, but I'd argue it requires more luck.
+Crown Raceway has a relatively large discrepancy in spawn safety, with defense holding the distinct advantage. The left side of the tall, central building naturally protects players until they want to run up the stairs to mid-street --- the most logical area for hitting cross-maps from offense (Figure 2). I hit several here which I'd consider fairly lucky. It is a relatively high traffic area; however, the variability in the throw combined with a) having to clear the concrete barrier; b) hitting a narrow kill zone; and c) underutilisation of the upper platform, which knives tend to bounce up on, make this more challenging than it looks (Figure 3). Note that hitting AFK players directly at spawn is also possible, but I'd argue it requires more luck.
 
 ![Figure 2. An overview of the defense spawn and the route players must take to be vulnerable to this particular cross-map.](images/raceway1-01.png){fig-align="center"}
 
@@ -94,7 +94,7 @@ Let's take a look at the other side. At first glance, the offense spawn looks qu
 
 ##### 2. Taraq --- an interesting case of design
 
-Taraq being in my top five maps was somewhat surprising given its large size and asymmetric layout. Let's start with the throws from offense because Infinity Ward did not give us any favours here. The large blue building in front of the defensive spawn forces players left towards B, which is more open, or right through a small corridor towards A. Unfortunately, the strategic position of the large central tower makes hitting the B route a near-impossible task (one I never attempted). That leaves trying to perfect the A throw --- a sprint-jump toss into a vague grey sky that has to a) get over the balcony; or b) be left of the balcony and miss the pillar, which makes aim and timing absolutely crucial (Figure 6). Given these factors, I'd chalk the three I hit from this spawn up to luck, mostly. They are easily some of my favourite kills since so much has to go right (where is theatre mode when you need it).
+Taraq being in my top five maps was somewhat surprising given its large size and asymmetric layout. Let's start with the throws from offense because Infinity Ward did not give us any favours here. The large blue building in front of the defensive spawn forces players left towards B, which is more open, or right through a small corridor towards A (Figure 5). Unfortunately, the strategic position of the large central tower makes hitting the B route a near-impossible task (one I never attempted). That leaves trying to perfect the A throw --- a sprint-jump toss into a vague grey sky that has to a) get over the balcony; or b) be left of the balcony and miss the pillar, which makes aim and timing absolutely crucial (Figure 6). Given these factors, I'd chalk the three I hit from this spawn up to luck, mostly. They are easily some of my favourite kills since so much has to go right (where is theatre mode when you need it).
 
 ![Figure 5. The central tower and blue platform and adjoined retaining wall protect players exiting spawn towards B.](images/taraq1.png){fig-align="center"}
 
@@ -114,9 +114,9 @@ Zarqwa Hydroelectric is simply a cross-mapping paradise; however, there are some
 
 ![Figure 9. The area of interest for the cross-map thrown from offense.](images/hydroelectric2.png){fig-align="center"}
 
-Conversely, tossing knives from defense is a dream setup. Player spawns in the kill zone? Check. Point and release strong arm throw? Check. Long, straight runway with no barriers and bounce opportunities? Check. Perfect bomb placement that entices players to funnel down the middle lane? Check. After a while, I expected to hit one from this side every game --- it is the textbook example of what to look for when cross-mapping. Although this is a small sample size, offense on Zarqwa Hydroelectric may very well be the most dangerous Search and Destroy spawn in the game.
+Conversely, tossing knives from defense is a dream setup (Figure 10). Player spawns in the kill zone? Check. Point and release strong arm throw? Check. Long, straight runway with no barriers and bounce opportunities? Check. Perfect bomb placement that entices players to funnel down the middle lane? Check. After a while, I expected to hit one from this side every game --- it is the textbook example of what to look for when cross-mapping. Although this is a small sample size, offense on Zarqwa Hydroelectric may very well be the most dangerous Search and Destroy spawn in the game.
 
-**Conclusion:** Defense everytime.
+**Conclusion:** defense everytime.
 
 ![Figure 10. The nightmare scenario for players spawning and subsequently running middle on offense.](images/hydroelectric1.png){fig-align="center"}
 
